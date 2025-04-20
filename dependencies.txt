@@ -3,6 +3,7 @@ https://github.com/junegunn/fzf
 https://github.com/wbthomason/packer.nvim
 https://github.com/tmux-plugins/tpm
 https://starship.rs/
+https://github.com/git-ecosystem/git-credential-manager
 
 #
 # /usr/bin/tmux-sessionizer
