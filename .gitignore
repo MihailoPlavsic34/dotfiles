@@ -9,6 +9,8 @@
 !.config/nvim/
 !.config/nvim/**
 !.config/tmux/
+!.config/ghostty
+!.config/ghostty/config
 !.config/tmux/tmux.conf
 !.config/starship.toml
 
