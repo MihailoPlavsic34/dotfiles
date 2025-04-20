@@ -1,0 +1,16 @@
+*
+
+!dependencies.txt
+!.zshrc
+
+!.config/
+.config/*
+!.config/nvim/
+!.config/nvim/**
+!.config/tmux/
+!.config/tmux/tmux.conf
+!.config/starship.toml
+
+.gitignore
+.exrc
+*vim
