@@ -1,6 +1,7 @@
 *
 
 !dependencies.txt
+!.pre-commit-config.yaml
 !.zshrc
 
 !.config/
